@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SetoabaCyber and amateur development and cs student
 - 👀 I’m interested in developing my skills in coding projects,robotics,app development,trading bots,web development and gadgets.
-- 🌱 I’m currently learning ...Software development,fintech,high frequency trading,EA trading bot,robotics and full stack development.
+- 🌱 I’m currently learning ...Cloud based systems and cybersecurity + .
 - 💞️ I’m looking to collaborate on light weight beginner projects to gain expirience.
 - 📫 How to reach me through email and social media platform
 
